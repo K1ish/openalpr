@@ -236,3 +236,6 @@ manufacturers:
   Zavio: 
     mjpeg: 
       - "http://[username]:[password]@[ip_address]/jpg/image.jpg"
+  Mcam
+    h264:
+      - "udp://@[ip_address]
